@@ -1,0 +1,11 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+
+body{
+    background-image: url('adria.jpeg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 125em;
+}
